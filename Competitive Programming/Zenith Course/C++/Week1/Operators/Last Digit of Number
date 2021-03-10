@@ -1,0 +1,14 @@
+#include <bits/stdc++.h>
+  using namespace std;
+  
+  int main()
+  {
+    int num,last_digit;
+    cin>>num;
+    last_digit=num%10;
+    cout<<last_digit<<endl;
+    
+    //write your code here
+    
+    return 0;
+  }
